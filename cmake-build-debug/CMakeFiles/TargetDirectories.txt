@@ -1,3 +1,0 @@
-/home/maxime/CLionProjects/adventofcode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/maxime/CLionProjects/adventofcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/maxime/CLionProjects/adventofcode/cmake-build-debug/CMakeFiles/adventofcode.dir
