@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/adventofcode.dir/src/day4/main.cpp.o CMakeFiles/adventofcode.dir/src/day3/Position.cpp.o  -o adventofcode 
